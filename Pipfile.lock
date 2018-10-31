@@ -1,0 +1,54 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "d3486533ea2181bc138ee768edad7643c9f54abcab502c99681f51b0185de073"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.5"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "adafruit-gpio": {
+            "hashes": [
+                "sha256:d6465b92c866c51ca8f3bc1e8f2ec36f5ccdb46d0fd54101c1109756d4a2dcd0"
+            ],
+            "version": "==1.0.3"
+        },
+        "adafruit-pureio": {
+            "hashes": [
+                "sha256:e65cd929f1d8e109513ed1e457c2742bf4f15349c1a9b7f5b1e04191624d7488"
+            ],
+            "version": "==0.2.3"
+        },
+        "adafruit-ws2801": {
+            "hashes": [
+                "sha256:328e5ccf673665943498de735fb510c868b94f97a220d81f6eea7d11600fa333",
+                "sha256:50b1ab1b975ca9e9574e48c6f4c60c9979bd2ed6cd651f7866dc995b0da29f9c"
+            ],
+            "index": "pypi",
+            "version": "==1.0.1"
+        },
+        "rpi.gpio": {
+            "hashes": [
+                "sha256:a5fc0eb5e401963b6c0a03650da6b42c4005f02d962b81241d96c98d0a578516"
+            ],
+            "index": "pypi",
+            "version": "==0.6.3"
+        },
+        "spidev": {
+            "hashes": [
+                "sha256:09d2b5122f0dd79910713a11f9a0020f71537224bf829916def4fffc0ea59456"
+            ],
+            "version": "==3.2"
+        }
+    },
+    "develop": {}
+}
